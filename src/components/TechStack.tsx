@@ -15,11 +15,15 @@ const imageUrls = [
   "/images/python.webp",
   "/images/fastapi.webp",
   "/images/django.webp",
-  "/images/aws.webp",
+  "/images/aws.png",
   "/images/docker.webp",
   "/images/postgresql.webp",
   "/images/elasticsearch.webp",
   "/images/git.webp",
+  "/images/javascript.webp",
+  "/images/node2.webp",
+  "/images/react2.webp",
+  "/images/mysql.webp",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
