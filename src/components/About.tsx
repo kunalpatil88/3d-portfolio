@@ -6,11 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          Software Engineer with 3+ years of experience in backend development,
+          scalable microservices architecture, cloud-native applications, and REST
+          API development using Python technologies. Skilled in FastAPI, Django,
+          AWS Cloud, Docker, PostgreSQL, and Elasticsearch. Experienced in
+          designing high-performance APIs, optimizing databases, deploying
+          containerized applications, and working in Agile development environments.
+          Based in Pune, Maharashtra, India.
         </p>
       </div>
     </div>

@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>BACKEND & APIs</h3>
+              <h4>Scalable Python Microservices</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Backend specialist building high-performance RESTful APIs and
+                microservices using FastAPI and Django — designed for scale,
+                reliability, and cloud-native deployment.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">FastAPI</div>
+                <div className="what-tags">Django REST</div>
+                <div className="what-tags">Microservices</div>
+                <div className="what-tags">JWT Auth</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">REST APIs</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>CLOUD &amp; DEVOPS</h3>
+              <h4>AWS, Docker & Distributed Systems</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                Cloud-native deployments on AWS, containerized services with Docker,
+                and scalable distributed systems — built for high availability
+                and optimized performance.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
+                <div className="what-tags">AWS EC2 / S3</div>
+                <div className="what-tags">Lambda &amp; Athena</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">Elasticsearch</div>
                 <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">CI/CD &amp; Git</div>
               </div>
               <div className="what-arrow"></div>
             </div>

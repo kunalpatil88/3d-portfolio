@@ -5,32 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "AWS Data Processing System",
+    category: "Cloud-Based Automated Data Platform",
+    tools: "Python, AWS S3, Lambda, Athena, Docker, Boto3",
+    image: "/images/placeholder.webp",
+    link: "https://github.com/kunalwarude143",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "Data Slicer Tool",
+    category: "Scalable Backend Data Platform",
+    tools: "Django, Elasticsearch, AWS S3, Docker, EC2",
+    image: "/images/placeholder.webp",
+    link: "https://github.com/kunalwarude143",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "SPACE-IZ Ride",
+    category: "Ride Sharing Application",
+    tools: "Django REST Framework, MySQL, Python, Real-time APIs",
+    image: "/images/placeholder.webp",
+    link: "https://github.com/kunalwarude143",
   },
 ];
 
